@@ -7,3 +7,4 @@
 
 
 # Ingredientes da Cobertura
+ - 1 colher de sopa de manteiga
