@@ -1,0 +1,3 @@
+- **Nome:** Paulo Paladino
+- **Classe:** Guardião dos Repositórios
+- **Habilidade Principal:** Resolver conflitos de Git com coragem, café e `git pull`
