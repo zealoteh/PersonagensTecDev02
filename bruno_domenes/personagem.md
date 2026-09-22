@@ -1,0 +1,3 @@
+- **Nome:** Quicky
+- **Classe:** Mago supremo do back-end
+- **Habilidade Principal:** Resolver problemas de lógicas de progamação atraves dos conhecimentos obtidos em Kamar-Taj
