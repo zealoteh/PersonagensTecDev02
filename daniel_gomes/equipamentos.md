@@ -1,0 +1,3 @@
+- **nootbook**
+- **Teclado**
+- **Mouse**
