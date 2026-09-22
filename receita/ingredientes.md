@@ -11,7 +11,7 @@
 # Ingredientes da Cobertura
 - 2 xícaras de farinha de trigo
 - 3 colheres de sopa de chocolate em pó
+- 1 colher de sopa de manteiga
 
 
-# Ingredientes da Cobertura
- - 1 colher de sopa de manteiga
+ 
