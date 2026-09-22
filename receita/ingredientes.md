@@ -4,6 +4,7 @@
 - 1 colher de sopa de fermento em pó
 - 1 xícara de óleo
 - 1 xícara de leite
+- 2 xícaras de farinha de trigo
 
 
 # Ingredientes da Cobertura
