@@ -1,0 +1,1 @@
+## Equipamentos: Notebook, controladora e fone de ouvido
