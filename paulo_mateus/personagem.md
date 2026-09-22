@@ -1,0 +1,3 @@
+- **Nome:** Paulo Paladino
+- **Classe:** Guardião dos Repositórios
+- **Habilidade Principal:** Invoca os poderes ancestrais de GitHubius, o deus dos commits, para derrotar conflitos com café sagrado e monster
