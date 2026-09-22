@@ -9,6 +9,7 @@
 
 # Ingredientes da Cobertura
 - 2 xícaras de farinha de trigo
+- 3 colheres de sopa de chocolate em pó
 
 
 # Ingredientes da Cobertura
