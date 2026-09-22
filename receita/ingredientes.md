@@ -3,7 +3,7 @@
 - 3 cenouras médias picadas
 - 1 colher de sopa de fermento em pó
 - 1 xícara de óleo
-
+- 1 xícara de leite
 
 
 # Ingredientes da Cobertura
