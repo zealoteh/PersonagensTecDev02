@@ -9,4 +9,5 @@
  # Ingredientes da Cobertura
 - 1 colher de sopa de manteiga
 - 3 colheres de sopa de chocolate em pó
-- 1 xícara de açúcar
+- 1 xícara de  
+- 1 xícara de leite
