@@ -3,3 +3,4 @@
 - 4 ovos
 - 1 xícara de óleo
 - 2 xícaras de açúcar
+- 2 xícaras de farinha de trigo
