@@ -7,3 +7,4 @@
 - 1 colher de sopa de fermento em pó
 
  # Ingredientes da Cobertura
+- 1 colher de sopa de manteiga
