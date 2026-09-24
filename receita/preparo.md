@@ -8,3 +8,4 @@
 # Modo de Preparo da Cobertura
 
 5. Em uma panela, misture a manteiga, o chocolate, o açúcar e o leite.
+6. Leve ao fogo médio e mexa até ferver e engrossar
