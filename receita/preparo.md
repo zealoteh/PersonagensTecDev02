@@ -9,3 +9,4 @@
 
 5. Em uma panela, misture a manteiga, o chocolate, o açúcar e o leite.
 6. Leve ao fogo médio e mexa até ferver e engrossar
+7. Despeje a cobertura quente sobre o bolo já assado.
