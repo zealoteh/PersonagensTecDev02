@@ -6,3 +6,5 @@
 4. Asse em forno preaquecido a 180°C por 40 minutos. 
 
 # Modo de Preparo da Cobertura
+
+5. Em uma panela, misture a manteiga, o chocolate, o açúcar e o leite.
